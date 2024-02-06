@@ -1,0 +1,1 @@
+print(f"Number of megabytes: {int(input("Number of gigabyes? ")) * 1024}")
